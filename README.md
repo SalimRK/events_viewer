@@ -1,5 +1,4 @@
 # Event Viewer
-
 Event Viewer is a Flutter-based mobile application that allows users to view public holidays for different countries and add them to their calendar. The app fetches data from an external API, displays available countries, and shows upcoming holidays for the selected country.
 
 # Features
